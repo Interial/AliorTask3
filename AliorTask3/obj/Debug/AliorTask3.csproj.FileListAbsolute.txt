@@ -1,0 +1,6 @@
+C:\Users\Ja\source\repos\AliorTask3\AliorTask3\bin\Debug\AliorTask3.exe.config
+C:\Users\Ja\source\repos\AliorTask3\AliorTask3\bin\Debug\AliorTask3.exe
+C:\Users\Ja\source\repos\AliorTask3\AliorTask3\bin\Debug\AliorTask3.pdb
+C:\Users\Ja\source\repos\AliorTask3\AliorTask3\obj\Debug\AliorTask3.csprojAssemblyReference.cache
+C:\Users\Ja\source\repos\AliorTask3\AliorTask3\obj\Debug\AliorTask3.exe
+C:\Users\Ja\source\repos\AliorTask3\AliorTask3\obj\Debug\AliorTask3.pdb
